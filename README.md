@@ -1,4 +1,7 @@
-# api documentation for  [simplify-js (v1.2.1)](http://mourner.github.com/simplify-js/)  [![npm package](https://img.shields.io/npm/v/npmdoc-simplify-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-simplify-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-simplify-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-simplify-js)
+# npmdoc-simplify-js
+
+#### basic api documentation for  [simplify-js (v1.2.1)](http://mourner.github.com/simplify-js/)  [![npm package](https://img.shields.io/npm/v/npmdoc-simplify-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-simplify-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-simplify-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-simplify-js)
+
 #### A high-performance JavaScript 2D/3D polyline simplification library
 
 [![NPM](https://nodei.co/npm/simplify-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/simplify-js)
@@ -63,7 +66,8 @@
     "scripts": {
         "test": "jshint simplify.js test.js && node test.js | faucet"
     },
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "bin": {}
 }
 ```
 
